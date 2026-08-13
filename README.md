@@ -17,11 +17,15 @@ I love solving real-world problems through clean code, continuous learning, and 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
 
@@ -43,7 +47,9 @@ I love solving real-world problems through clean code, continuous learning, and 
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs)](https://skillicons.dev) 
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,tailwind,bootstrap,mysql,mongodb)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,alpinejs,tailwind,bootstrap)](https://skillicons.dev) 
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) 
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=github,netlify,vercel,vscode)](https://skillicons.dev) 
 
