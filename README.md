@@ -1,8 +1,8 @@
 ![Banner Image](https://github.com/masumbillahbd/masumbillahbd/blob/main/banner.gif)
 
-👋 Hi, I’m **Masum Billah**, a passionate Full Stack Web Developer. I specialize in building modern, scalable, and responsive web applications using PHP, Laravel, JavaScript, React, and Vue.
+👋 Hi, I’m **Masum Billah**, a passionate Full Stack Developer focused on building dynamic, modern, and scalable web applications. 
 
-I love solving real-world problems through clean code, continuous learning, and collaborating on impactful projects!
+I love solving real-world problems through clean code, continuous learning, and exploring new technologies!
 
 ---
 
@@ -10,7 +10,18 @@ I love solving real-world problems through clean code, continuous learning, and 
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%23404d59.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%23404d59.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -30,7 +41,11 @@ I love solving real-world problems through clean code, continuous learning, and 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,react,vue,tailwind,bootstrap,html,css,github,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs)](https://skillicons.dev) 
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,tailwind,bootstrap,mysql,mongodb)](https://skillicons.dev) 
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=github,netlify,vercel,vscode)](https://skillicons.dev) 
 
 </div>
 
