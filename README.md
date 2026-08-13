@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/masumbillahbd/masumbillahbd/blob/main/banner.gif)
+![Banner Image](https://github.com/masumbillahbd/masumbillahbd/blob/main/masum.png)
 
 👋 Hi, I’m **Masum Billah**, a passionate Full Stack Developer focused on building dynamic, modern, and scalable web applications. 
 
