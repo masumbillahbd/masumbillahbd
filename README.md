@@ -1,8 +1,8 @@
 ![Banner Image](https://github.com/masumbillahbd/masumbillahbd/blob/main/banner.gif)
 
-👋 Hi, I’m **Masum Billah**, a passionate Full Stack Developer diving into modern web development. I love crafting scalable, dynamic applications that solve real-world problems.
+👋 Hi, I’m **Masum Billah**, a passionate Full Stack Web Developer. I specialize in building modern, scalable, and responsive web applications using PHP, Laravel, JavaScript, React, and Vue.
 
-I’m committed to continuous learning, building efficient backend and frontend solutions, and collaborating on exciting projects!
+I love solving real-world problems through clean code, continuous learning, and collaborating on impactful projects!
 
 ---
 
@@ -10,7 +10,7 @@ I’m committed to continuous learning, building efficient backend and frontend 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-5A0EF8?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%23404d59.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-039BE5?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%23404d59.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -30,11 +30,7 @@ I’m committed to continuous learning, building efficient backend and frontend 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=github,netlify,mongodb,vscode)](https://skillicons.dev) 
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,react)](https://skillicons.dev) 
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,react,vue,tailwind,bootstrap,html,css,github,vscode)](https://skillicons.dev) 
 
 </div>
 
@@ -85,5 +81,6 @@ I’m committed to continuous learning, building efficient backend and frontend 
 
 [![](https://visitcount.itsvg.in/api?id=masumbillahbd&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub metrics](https://metrics.lecoq.io/masumbillahbd)
 
 </div>
